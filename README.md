@@ -92,6 +92,8 @@ int main() {
 
 ```
 # OUTPUT
+![Screenshot 2025-04-15 105825](https://github.com/user-attachments/assets/9d79dc78-6769-4d97-8857-7136cda9dfd4)
+
 ![Screenshot 2025-04-15 104027](https://github.com/user-attachments/assets/a9a1c68b-1154-47bf-b05a-be24424aca27)
 
 
